@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>$APPNAME Privacy Policy Changes</title>
+        <title>journal Privacy Policy Changes</title>
         <description>This feel contains updates to the privacy policy for $APPNAME.</description>
         <link><!--Put the URI of your privacy policy or privacy dshboard here.--></link>
         <lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000 </lastBuildDate>
         <pubDate>Mon, 06 Sep 2009 16:45:00 +0000 </pubDate>
         <ttl>1800</ttl>
- 
+
         <item>
                 <title>First Policy</title>
                 <description>We posted a brand new pirvacy policy!</description>
@@ -15,7 +15,7 @@
                 <guid><!--unique string per item--></guid>
                 <pubDate>Mon, 06 Sep 2009 16:45:00 +0000 </pubDate>
         </item>
- 
+
 </channel>
 </rss>
 
